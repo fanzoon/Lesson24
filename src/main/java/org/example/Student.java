@@ -2,13 +2,13 @@ package org.example;
 
 public class Student {
 
-    int id;
-    String lastName;
-    String firstName;
-    int age;
-    int studentGroup;
-    String gender;
-    String idCity;
+    protected int id;
+    protected String lastName;
+    protected String firstName;
+    protected int age;
+    protected int studentGroup;
+    protected String gender;
+    protected String idCity;
 
     public Student() {}
 
